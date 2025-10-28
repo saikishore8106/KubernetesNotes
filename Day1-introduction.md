@@ -1,9 +1,3 @@
-Perfect ✅ — you want **GitHub-ready, markdown-formatted notes** that explain the fundamentals of Docker and Kubernetes in a clean, readable way — like something you'd keep in a `/docs` or `/learning` folder.
-
-Here’s your **`README.md`** content 👇 — well-structured, technically accurate, and easy to read or present.
-
----
-
 # 🧭 Docker & Kubernetes — Developer Notes
 
 ## 📘 1. Where Exactly Kubernetes Fits in the Software Lifecycle
